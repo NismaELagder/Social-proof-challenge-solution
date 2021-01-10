@@ -137,8 +137,9 @@ body {
   }
 
   #container-1 h1 {
-    width: 60%;
+    width: 80%;
     text-align: left;
+    font-size:3rem;
   }
 
   #container-1 .short-txt {
