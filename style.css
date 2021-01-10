@@ -152,7 +152,7 @@ body {
     float: right;
     width: 50%;
     display: grid;
-    grid-template: repeat(3, 30%) / repeat(2, 10%) 1fr repeat(2, 10%);
+    grid-template: repeat(3, 33%) / repeat(2, 10%) 1fr repeat(2, 10%);
     margin-left: 5%;
     padding-top: 10%;
   }
